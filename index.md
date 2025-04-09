@@ -1,4 +1,4 @@
 ---
-title: Welcome to my blog
+GitHub Training: This is a test by Kevs (2025-04)
 ---
 
